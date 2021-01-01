@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.cmakePath": "e:/SW/MXChip/cmake-3.16.2-win64-x64/bin/cmake.exe"
+}

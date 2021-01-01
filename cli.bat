@@ -1,0 +1,1 @@
+e:\SW\MXChip\init-mxchip-cli.bat 
